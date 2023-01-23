@@ -2,7 +2,7 @@
 <h2>Olá, seja bem vindo! 😄<br><br>Sou técnico em informática e estudante do Curso de Análise e Desenvolvimento de Sistemas no IFPE. <br><br></h2>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/igor-silva-232b73251/) 
 
 # 💻 Tech Stack:
