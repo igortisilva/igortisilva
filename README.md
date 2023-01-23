@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, seja bem vindo! 😄<br><br>Sou técnico em informática e estudante do Curso de Análise e Desenvolvimento de Sistemas no IFPE. <br><br>
+<h2>Olá, seja bem vindo! 😄<br><br>Sou técnico em informática e estudante do Curso de Análise e Desenvolvimento de Sistemas no IFPE. <br><br></h2>
 
 
 ## 🌐 Socials:
